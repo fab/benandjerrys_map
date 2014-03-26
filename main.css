@@ -1,0 +1,11 @@
+.state {
+  fill: #e3e3e3;
+  stroke: #fff;
+  stroke-width: 0.75;
+  stroke-opacity: 1;
+}
+
+.state:hover {
+  fill: #d3d3d3;
+  cursor: pointer;
+}
