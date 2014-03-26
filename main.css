@@ -12,4 +12,22 @@
 
 h2 {
   margin-bottom: 0;
+  margin-right: 10px;
+}
+
+#map {
+  text-align: center;
+  margin-top: 40px;
+}
+
+#info {
+  text-align: center;
+}
+
+#info div:first-child {
+  margin-right: 50px;
+}
+
+#info * {
+  display: inline-block;
 }
