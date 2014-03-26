@@ -9,3 +9,7 @@
   fill: #d3d3d3;
   cursor: pointer;
 }
+
+h2 {
+  margin-bottom: 0;
+}
